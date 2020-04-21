@@ -31,6 +31,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 ## Avvisi
 
 ```diff
+- 20/04/2020: dati Regione Lombardia ricalcolati (ricalcolo di casi testati - eliminazione duplicati)
 - 15/04/2020: dati Regione Friuli Venezia Giulia ricalcolati (ricalcolo di isolamento domiciliare e dimessi/guariti)
 - 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri).
 - 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato).
@@ -103,6 +104,7 @@ COVID-19/
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
 | **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
 
@@ -159,6 +161,7 @@ COVID-19/
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
 | **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
 
